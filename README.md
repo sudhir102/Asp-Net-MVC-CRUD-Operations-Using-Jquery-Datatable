@@ -1,0 +1,2 @@
+# Asp-Net-MVC-CRUD-Operations-Using-Jquery-Datatable
+asp.net MVC crud operations - Insert, Update and Delete Using jQuery Datatable and jquery dialog, jQuery UI dialog is used for showing Form in a popup.  Ajax request is used to post and get data from SQL Server Database table. CRUD Operations Like Insert, Update and Delete are done using Entity Framework.  Other than jQuery Datatable and iQuery UI we used plugin notifyjs
